@@ -4,5 +4,6 @@ public class _1_PrintZ {
     public static void main(String[] args) {
         System.out.println("Hello guys");
         System.out.println("Hello Girls");
+        System.out.println("Hello Teachers");
     }
 }
